@@ -1,0 +1,10 @@
+title: CURIOSS Testing
+description: >- # this means to ignore newlines until "baseurl:"
+  Place to share academic OSPO docs.
+baseurl: /curioss_testing
+url: "https://meganforbes.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
